@@ -1,0 +1,1 @@
+git remote add <リモート名><リモートURL>
